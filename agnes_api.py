@@ -15,9 +15,9 @@ ASPECT_RATIOS = [
     "3:2", "4:3", "5:4", "16:9", "21:9",
 ]
 
-TEXT_MODELS = ["agnes-3.0-flash","agnes-2.5-flash", "agnes-2.5-pro-alpha", "agnes-2.0-flash", "agnes-1.5-flash"]
-IMAGE_MODELS = ["agnes-image-2.5-flash","agnes-image-2.1-flash", "agnes-image-2.0-flash"]
-VIDEO_MODELS = ["agnes-video-2.5","agnes-video-2.5-flash","agnes-video-v2.0"]
+TEXT_MODELS = ["agnes-3.0-flash", "agnes-2.5-flash", "agnes-2.5-pro-alpha", "agnes-2.0-flash", "agnes-1.5-flash"]
+IMAGE_MODELS = ["agnes-image-2.5-flash", "agnes-image-2.1-flash", "agnes-image-2.0-flash"]
+VIDEO_MODELS = ["agnes-video-2.5", "agnes-video-2.5-flash", "agnes-video-v2.0"]
 
 DEFAULT_STYLES = {
     "Prompt Enhance": {
