@@ -41,12 +41,12 @@ Search `Agnes-AI` in ComfyUI-Manager and install.
 ### Method 2: Git Clone
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/1038lab/ComfyUI-Agnes-AI
+git clone https://github.com/sifeilong/ComfyUI-Agnes-AI
 ```
 Restart ComfyUI.
 
 ### Method 3: Manual Install
-Download the [latest release](https://github.com/1038lab/ComfyUI-Agnes-AI/releases), extract to `ComfyUI/custom_nodes/ComfyUI-Agnes-AI/`, restart ComfyUI.
+Download the [latest release]https://github.com/sifeilong/ComfyUI-Agnes-AI/releases, extract to `ComfyUI/custom_nodes/ComfyUI-Agnes-AI/`, restart ComfyUI.
 
 No `pip install` needed — zero additional dependencies.
 
